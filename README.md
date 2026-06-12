@@ -113,7 +113,7 @@ Ensure you have Node.js (version 18 or higher) and npm installed.
 ### 2. Installation
 Clone the repository and install the npm packages:
 ```bash
-git clone https://github.com/your-username/aether-workspace.git
+git clone https://github.com/mahdi8p2gi/aether-workspace.git
 cd aether-workspace
 npm install
 ```
